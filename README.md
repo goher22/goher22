@@ -30,7 +30,7 @@
             <td colspan="2"><img target='_blank' src="https://github-readme-streak-stats.herokuapp.com/?user=goher22&theme=tokyonight&hide_border=false"/></td>
         </tr>
         <tr>
-            <td colspan="2"><img target='_blank' src="https://github-readme-stats.vercel.app/api?org=your_organization_name&layout=compact&langs_count=6&theme=tokyonight"/></td>
+            <td colspan="2"><img target='_blank' src="https://github-readme-stats.vercel.app/api?org=CodeWhiskers25&layout=compact&langs_count=6&theme=tokyonight"/></td>
         </tr>
     </table>
 </div>

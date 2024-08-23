@@ -40,6 +40,8 @@
 ![FLUTTER](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![VUEJS](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white)
 ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
